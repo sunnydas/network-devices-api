@@ -242,7 +242,8 @@ implementation. The main choices made here:
 - Mongo DB for similar reasons as above.
 
 ## Tested on
-- Java 21 
+- Java 21
+- SpringBoot
 - H2
 - Mac OS
 
